@@ -1,5 +1,5 @@
 # About Me 💚
-- 👋 My names Tauha or Tea whichever you you'd like to use best.
+- 👋 My names Tauha or Tea whichever you'd like to use best.
 - 💭 I'm currently researching and interested in web development.
 - 🤖 I'm also the former lead programmer for FTC Teams 9384 and 8088 (2022-2024).
 
