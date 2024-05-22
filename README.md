@@ -11,6 +11,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLeafPlanner)](https://github.com/Tea505/TeaLeafPlanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLib)](https://github.com/Tea505/TeaLib)
+
 
  # IDE Usage
  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
