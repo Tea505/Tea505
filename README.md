@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tea505&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tea505&theme=cobalt&hide_border=false)</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tea505&repo=github-readme-stats)](https://github.com/Tea505/TeaLeafPlanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tea505&repo=github-readme-stats)](https://github.com/Tea505/TeaLeafPlanner/blob/master/README.md)
 
 <!--
 **Tea505/Tea505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
