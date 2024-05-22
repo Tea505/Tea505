@@ -14,7 +14,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLeafPlanner&theme=radical&border_color=green)](https://github.com/Tea505/TeaLeafPlanner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLib&theme=radical&border_color=green)](https://github.com/Tea505/TeaLib)
 
-
  # IDE Usage
  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
