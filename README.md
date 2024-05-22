@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tea505&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tea505&theme=cobalt&hide_border=false)</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tea505/Tea505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
