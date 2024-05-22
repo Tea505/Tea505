@@ -10,6 +10,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLeafPlanner)](https://github.com/Tea505/TeaLeafPlanner)
+
  # IDE Usage
  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -17,7 +19,6 @@
  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
-
 # GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=tea505&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tea505&theme=cobalt&hide_border=false)</br>
