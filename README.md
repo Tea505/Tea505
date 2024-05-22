@@ -10,8 +10,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLeafPlanner)](https://github.com/Tea505/TeaLeafPlanner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLib)](https://github.com/Tea505/TeaLib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLeafPlanner&theme=radical&border_color=green)](https://github.com/Tea505/TeaLeafPlanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLib&theme=radical&border_color=green)](https://github.com/Tea505/TeaLib)
 
 
  # IDE Usage
