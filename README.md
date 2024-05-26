@@ -22,7 +22,6 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 # GitHub Stats 📊
-// ![](https://github-readme-stats.vercel.app/api?username=tea505&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tea505&theme=cobalt&hide_border=false)</br>
 
 <!--
