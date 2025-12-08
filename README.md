@@ -15,8 +15,8 @@
 
 # Active Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea505&repo=TeaLib&theme=radical&border_color=green)](https://github.com/Tea505/TeaLib)
-
- # IDE Usage
+-->
+# IDE Usage
  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
