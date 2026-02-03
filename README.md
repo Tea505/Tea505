@@ -12,7 +12,7 @@
  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 # Active Projects
@@ -26,8 +26,9 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
-# GitHub Stats 📊
+<!-- # GitHub Stats 📊
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tea505&theme=cobalt&hide_border=false)</br>
+--> 
 
 # Design 
 [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)
