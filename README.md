@@ -12,7 +12,7 @@
  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea505&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)
 
 <!--
 # Active Projects
